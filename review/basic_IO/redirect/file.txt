@@ -1,3 +1,0 @@
-Write some words to file.txt
-Append some words 
-to the end of file

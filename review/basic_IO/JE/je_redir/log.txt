@@ -1,2 +1,0 @@
-./test.sh: line 1: t: command not found
-Tue Dec 14 13:08:37 CST 2021
