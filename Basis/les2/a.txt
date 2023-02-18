@@ -1,0 +1,7 @@
+#include <iostream>
+"cao ni ma b9"
+
+int main()
+{
+;
+}
