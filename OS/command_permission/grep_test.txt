@@ -1,0 +1,7 @@
+This is a file which can be tested for grep
+grep x "hello"
+which cannot be test
+A file not can be a good file
+Where a "Hhh"
+hahahHello
+xmy follow this inher
